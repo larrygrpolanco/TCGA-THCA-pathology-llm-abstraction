@@ -1,0 +1,201 @@
+patient_id,histologic_variant,extrathyroidal_extension,margins,tumor_site,tumor_size
+TCGA-FK-A3SE,Classical,No ETE,R0,Bilateral,3.5
+TCGA-DJ-A2QA,Follicular,Microscopic,R0,Bilateral,1.3
+TCGA-EL-A3T7,Classical,Microscopic,R0,Right lobe,2.0
+TCGA-FE-A230,Classical,No ETE,R0,Left lobe,4.4
+TCGA-EM-A3FO,Classical,No ETE,R0,Isthmus,4.4
+TCGA-L6-A4EU,Tall Cell,Microscopic,R1,Right lobe,5.0
+TCGA-DJ-A4V4,Tall Cell,No ETE,R0,Bilateral,0.9
+TCGA-EM-A4FF,Classical,No ETE,R1,Left lobe,1.5
+TCGA-EL-A3D1,Classical,No ETE,R0,Left lobe,5.5
+TCGA-DJ-A3UR,Follicular,Microscopic,R0,Bilateral,1.0
+TCGA-FY-A3R8,Classical,Microscopic,R0,Left lobe,1.7
+TCGA-DJ-A4UR,Follicular,Microscopic,R0,Right lobe,2.0
+TCGA-DJ-A13L,Tall Cell,No ETE,R0,Right lobe,1.4
+TCGA-EM-A2P3,Classical,No ETE,R0,Right lobe,1.4
+TCGA-EL-A3GW,Classical,No ETE,R0,Right lobe,2.5
+TCGA-FY-A3YR,Classical,Microscopic,R0,Right lobe,1.7
+TCGA-ET-A39L,Classical,No ETE,R0,Left lobe,5.5
+TCGA-KS-A4IB,Classical,No ETE,R0,Left lobe,3.2
+TCGA-EM-A2OY,Follicular,No ETE,R0,Right lobe,2.6
+TCGA-E8-A413,Classical,No ETE,R0,Left lobe,1.5
+TCGA-DJ-A2PO,Classical,No ETE,R0,Bilateral,0.6
+TCGA-DJ-A3UK,Classical,No ETE,R0,Left lobe,1.5
+TCGA-FY-A3R9,Classical,No ETE,R0,Bilateral,0.7
+TCGA-DJ-A3UO,Classical,Microscopic,R0,Bilateral,2.8
+TCGA-ET-A3BT,Tall Cell,No ETE,R0,Isthmus,2.5
+TCGA-DJ-A1QE,Classical,Microscopic,R0,Right lobe,1.5
+TCGA-ET-A39S,Classical,No ETE,R0,Left lobe,1.0
+TCGA-KS-A4I7,Classical,No ETE,R0,Left lobe,1.5
+TCGA-FK-A3SH,Classical,No ETE,R0,Bilateral,3.0
+TCGA-DJ-A1QL,Follicular,No ETE,R0,Left lobe,2.1
+TCGA-FE-A234,Classical,No ETE,R0,Right lobe,3.3
+TCGA-CE-A484,Classical,No ETE,R0,Right lobe,5.0
+TCGA-EM-A1CS,Classical,No ETE,R0,Left lobe,1.3
+TCGA-FE-A233,Classical,No ETE,R0,Right lobe,2.3
+TCGA-EL-A3GV,Classical,Microscopic,R0,Left lobe,1.9
+TCGA-ET-A39M,Classical,No ETE,R0,Left lobe,4.0
+TCGA-ET-A2MY,Classical,No ETE,R0,Right lobe,1.3
+TCGA-DJ-A2Q4,Classical,No ETE,R0,Bilateral,1.3
+TCGA-MK-A4N7,Classical,No ETE,R0,Isthmus,2.5
+TCGA-ET-A25N,Classical,No ETE,R0,Right lobe,2.3
+TCGA-E8-A438,Classical,No ETE,R0,Left lobe,2.3
+TCGA-E3-A3E2,Follicular,No ETE,R0,Right lobe,1.7
+TCGA-ET-A3DQ,Follicular,No ETE,R0,Right lobe,1.0
+TCGA-J8-A3O1,Classical,No ETE,R0,Left lobe,6.5
+TCGA-DJ-A2PN,Classical,No ETE,R0,Left lobe,1.3
+TCGA-EL-A4K2,Classical,No ETE,R0,Left lobe,1.8
+TCGA-FE-A23A,Classical,No ETE,R0,Right lobe,2.7
+TCGA-DE-A4M8,Classical,No ETE,R0,Bilateral,1.7
+TCGA-EL-A3GO,Classical,No ETE,R0,Right lobe,3.2
+TCGA-DJ-A3VF,Tall Cell,Microscopic,R0,Right lobe,1.0
+TCGA-E8-A44K,Classical,No ETE,R0,Left lobe,2.0
+TCGA-EM-A3FQ,Classical,No ETE,R0,Right lobe,4.8
+TCGA-BJ-A18Y,Classical,No ETE,R0,Bilateral,1.4
+TCGA-EM-A22L,Follicular,No ETE,R0,Right lobe,2.2
+TCGA-DJ-A4V0,Classical,No ETE,R0,Left lobe,2.1
+TCGA-E8-A414,Classical,No ETE,R0,Left lobe,5.0
+TCGA-J8-A4HY,Classical,Gross,R0,Left lobe,6.5
+TCGA-ET-A4KQ,Follicular,No ETE,R0,Right lobe,4.0
+TCGA-ET-A25K,Classical,No ETE,R0,Right lobe,2.5
+TCGA-DJ-A2PR,Classical,Microscopic,R0,Bilateral,2.0
+TCGA-E8-A44M,Classical,No ETE,R0,Right lobe,1.0
+TCGA-EL-A3ZQ,Classical,No ETE,R0,Right lobe,3.6
+TCGA-EL-A3H3,Classical,No ETE,R0,Isthmus,3.2
+TCGA-ET-A39I,Follicular,No ETE,R0,Right lobe,1.9
+TCGA-DE-A0XZ,Classical,No ETE,R0,Right lobe,2.0
+TCGA-EM-A4FH,Follicular,No ETE,R0,Right lobe,4.7
+TCGA-E3-A3DZ,Follicular,No ETE,R0,Right lobe,5.0
+TCGA-ET-A3DS,Classical,No ETE,R0,Right lobe,0.8
+TCGA-FY-A3RA,Classical,No ETE,R0,Left lobe,4.0
+TCGA-FE-A232,Classical,Microscopic,R0,Right lobe,3.5
+TCGA-EL-A3ZT,Classical,Microscopic,R0,Left lobe,2.5
+TCGA-EL-A4JX,Classical,No ETE,R0,Right lobe,4.0
+TCGA-DE-A0Y2,Classical,No ETE,R0,Left lobe,2.4
+TCGA-ET-A40Q,Tall Cell,Microscopic,R0,Right lobe,2.5
+TCGA-ET-A4KN,Tall Cell,Microscopic,R0,Right lobe,2.0
+TCGA-KS-A41I,Follicular,No ETE,R0,Right lobe,2.0
+TCGA-DJ-A13O,Classical,No ETE,R0,Right lobe,1.1
+TCGA-DJ-A3V2,Classical,No ETE,R0,Bilateral,2.1
+TCGA-FK-A4UB,Classical,Microscopic,R1,Right lobe,2.0
+TCGA-FY-A3W9,Follicular,No ETE,R1,Left lobe,2.3
+TCGA-DE-A69K,Classical,Microscopic,R1,Right lobe,3.1
+TCGA-ET-A25M,Classical,No ETE,R0,Right lobe,2.5
+TCGA-DE-A4MC,Classical,Microscopic,R0,Right lobe,2.8
+TCGA-ET-A39N,Classical,No ETE,R0,Right lobe,5.0
+TCGA-E8-A416,Classical,No ETE,R0,Left lobe,1.5
+TCGA-EM-A1YD,Follicular,No ETE,R0,Right lobe,3.7
+TCGA-DJ-A2Q0,Classical,No ETE,R0,Right lobe,2.8
+TCGA-FY-A3R6,Classical,No ETE,R0,Left lobe,2.2
+TCGA-EM-A2OX,Classical,No ETE,R0,Right lobe,1.8
+TCGA-EM-A2P1,Classical,No ETE,R0,Left lobe,3.1
+TCGA-L6-A4EP,Classical,No ETE,R0,Right lobe,3.0
+TCGA-DJ-A1QQ,Classical,Microscopic,R0,Bilateral,3.0
+TCGA-J8-A3YG,Classical,No ETE,R0,Bilateral,2.5
+TCGA-ET-A3DT,Classical,No ETE,R0,Left lobe,2.5
+TCGA-DJ-A2PX,Follicular,No ETE,R0,Left lobe,1.2
+TCGA-J8-A3YF,Classical,No ETE,R0,Bilateral,0.5
+TCGA-FY-A3NP,Follicular,No ETE,R0,Right lobe,2.0
+TCGA-EL-A3ZM,Classical,Gross,R1,Right lobe,5.7
+TCGA-DJ-A2Q9,Tall Cell,No ETE,R0,Right lobe,1.5
+TCGA-DJ-A3UV,Classical,No ETE,R0,Left lobe,0.8
+TCGA-BJ-A18Z,Classical,Microscopic,R1,Bilateral,3.6
+TCGA-EM-A3FK,Classical,No ETE,R0,Isthmus,1.2
+TCGA-EM-A3SX,Classical,No ETE,R1,Left lobe,4.4
+TCGA-DJ-A2PU,Classical,No ETE,R0,Bilateral,2.8
+TCGA-DO-A1JZ,Follicular,No ETE,R1,Left lobe,3.3
+TCGA-ET-A39J,Classical,No ETE,R0,Right lobe,3.0
+TCGA-DJ-A3VI,Classical,No ETE,R0,Left lobe,1.2
+TCGA-DJ-A2QC,Classical,No ETE,R0,Left lobe,2.3
+TCGA-KS-A41J,Classical,No ETE,R0,Left lobe,2.3
+TCGA-CE-A481,Classical,No ETE,R0,Left lobe,1.5
+TCGA-FE-A3PD,Follicular,No ETE,R0,Left lobe,2.3
+TCGA-EM-A3O9,Follicular,No ETE,R0,Right lobe,4.5
+TCGA-DJ-A13W,Follicular,No ETE,R0,Left lobe,2.0
+TCGA-IM-A3EB,Classical,Microscopic,R0,Right lobe,3.0
+TCGA-ET-A3BN,Classical,No ETE,R0,Right lobe,3.0
+TCGA-DJ-A1QI,Classical,No ETE,R0,Right lobe,3.0
+TCGA-EL-A3CY,Classical,No ETE,R0,Right lobe,5.0
+TCGA-EL-A4JZ,Classical,Microscopic,R0,Isthmus,2.0
+TCGA-ET-A25L,Tall Cell,Microscopic,R1,Left lobe,3.0
+TCGA-E8-A433,Classical,No ETE,R0,Right lobe,2.5
+TCGA-EL-A3GQ,Follicular,No ETE,R0,Right lobe,4.0
+TCGA-E8-A242,Classical,Microscopic,R1,Left lobe,1.8
+TCGA-FY-A3TY,Classical,Microscopic,R0,Right lobe,4.2
+TCGA-FY-A3WA,Follicular,No ETE,R0,Right lobe,0.5
+TCGA-ET-A3BQ,Classical,No ETE,R0,Right lobe,3.0
+TCGA-DJ-A2PZ,Classical,Microscopic,R0,Left lobe,1.7
+TCGA-ET-A25J,Classical,No ETE,R0,Right lobe,2.5
+TCGA-DJ-A2PV,Classical,No ETE,R0,Bilateral,3.4
+TCGA-EM-A3OB,Follicular,No ETE,R0,Isthmus,2.2
+TCGA-DJ-A13S,Follicular,No ETE,R0,Right lobe,1.8
+TCGA-EL-A3T6,Classical,No ETE,R0,Left lobe,4.5
+TCGA-DJ-A3VK,Follicular,Microscopic,R0,Right lobe,1.0
+TCGA-KS-A41F,Classical,No ETE,R0,Left lobe,2.2
+TCGA-DJ-A13V,Classical,Microscopic,R0,Left lobe,2.9
+TCGA-ET-A3DR,Classical,No ETE,R0,Left lobe,1.2
+TCGA-DE-A69J,Classical,No ETE,R0,Right lobe,2.5
+TCGA-DJ-A2PS,Classical,Microscopic,R0,Bilateral,1.1
+TCGA-DO-A1K0,Classical,Microscopic,R0,Bilateral,4.2
+TCGA-DJ-A13M,Follicular,No ETE,R0,Left lobe,2.0
+TCGA-DJ-A3VG,Follicular,No ETE,R0,Left lobe,1.1
+TCGA-EM-A3FP,Follicular,No ETE,R0,Right lobe,2.2
+TCGA-ET-A3DU,Classical,No ETE,R1,Left lobe,1.4
+TCGA-J8-A3YE,Classical,Microscopic,R0,Left lobe,3.5
+TCGA-DJ-A3VL,Follicular,No ETE,R0,Right lobe,0.6
+TCGA-EM-A3FL,Follicular,No ETE,R0,Left lobe,1.5
+TCGA-ET-A39O,Tall Cell,No ETE,R0,Isthmus,1.6
+TCGA-IM-A3ED,Classical,No ETE,R0,Left lobe,1.7
+TCGA-DJ-A3UM,Classical,No ETE,R0,Left lobe,1.3
+TCGA-EM-A2CJ,Follicular,No ETE,R0,Left lobe,1.2
+TCGA-E8-A436,Classical,No ETE,R0,Bilateral,2.5
+TCGA-EL-A3ZL,Classical,No ETE,R0,Right lobe,4.0
+TCGA-DJ-A2Q1,Classical,No ETE,R0,Bilateral,1.6
+TCGA-DJ-A2PQ,Classical,No ETE,R0,Left lobe,3.5
+TCGA-ET-A3BV,Classical,No ETE,R0,Left lobe,4.0
+TCGA-DJ-A2PP,Follicular,No ETE,R0,Bilateral,3.6
+TCGA-DJ-A13T,Classical,No ETE,R0,Right lobe,2.2
+TCGA-EM-A3AP,Follicular,No ETE,R0,Left lobe,3.6
+TCGA-DJ-A2Q5,Classical,No ETE,R0,Left lobe,4.0
+TCGA-ET-A25I,Follicular,No ETE,R0,Left lobe,2.4
+TCGA-ET-A3DP,Classical,No ETE,R0,Left lobe,2.5
+TCGA-EL-A3D6,Classical,Microscopic,R1,Left lobe,6.0
+TCGA-DJ-A3VM,Follicular,No ETE,R0,Right lobe,3.0
+TCGA-ET-A2N0,Classical,No ETE,R0,Right lobe,2.0
+TCGA-DJ-A4UP,Classical,No ETE,R0,Right lobe,1.6
+TCGA-DJ-A3VA,Classical,No ETE,R0,Left lobe,2.0
+TCGA-DJ-A2PT,Tall Cell,Microscopic,R0,Right lobe,1.5
+TCGA-DJ-A13X,Follicular,No ETE,R0,Right lobe,6.5
+TCGA-DJ-A13R,Follicular,No ETE,R0,Right lobe,5.0
+TCGA-DJ-A3V6,Tall Cell,Microscopic,R0,Left lobe,1.8
+TCGA-EL-A3ZK,Classical,No ETE,R0,Right lobe,2.5
+TCGA-DJ-A3UU,Classical,Microscopic,R1,Right lobe,1.1
+TCGA-DJ-A3UY,Classical,No ETE,R0,Left lobe,1.2
+TCGA-EM-A2CL,Follicular,No ETE,R0,Left lobe,2.5
+TCGA-DJ-A3UP,Follicular,No ETE,R0,Left lobe,2.1
+TCGA-KS-A41L,Follicular,No ETE,R0,Right lobe,3.2
+TCGA-FY-A3ON,Classical,No ETE,R0,Bilateral,2.5
+TCGA-EL-A4JW,Classical,No ETE,R0,Right lobe,1.6
+TCGA-KS-A4I9,Classical,No ETE,R0,Isthmus,1.7
+TCGA-EL-A3CL,Classical,No ETE,R0,Isthmus,3.0
+TCGA-EL-A3T3,Classical,No ETE,R0,Left lobe,3.5
+TCGA-FY-A4B4,Classical,No ETE,R1,Right lobe,1.8
+TCGA-DJ-A3V3,Classical,No ETE,R0,Left lobe,2.4
+TCGA-FE-A231,Classical,No ETE,R0,Right lobe,9.4
+TCGA-ET-A39K,Classical,Microscopic,R1,Left lobe,4.0
+TCGA-DJ-A3US,Classical,No ETE,R0,Right lobe,1.5
+TCGA-FK-A3S3,Follicular,Microscopic,R0,Left lobe,2.5
+TCGA-ET-A40P,Follicular,No ETE,R0,Right lobe,3.2
+TCGA-DJ-A3V5,Tall Cell,Microscopic,R1,Right lobe,1.4
+TCGA-DJ-A13U,Classical,Microscopic,R0,Right lobe,1.1
+TCGA-FY-A40K,Classical,No ETE,R0,Right lobe,1.0
+TCGA-DJ-A3V7,Tall Cell,Microscopic,R0,Right lobe,2.2
+TCGA-EL-A3ZS,Classical,No ETE,R0,Isthmus,1.6
+TCGA-DJ-A3UX,Classical,No ETE,R0,Right lobe,0.5
+TCGA-J8-A4HW,Classical,No ETE,R0,Left lobe,3.0
+TCGA-EM-A3OA,Follicular,No ETE,R0,Right lobe,2.2
+TCGA-EM-A3O3,Classical,No ETE,R0,Right lobe,3.1
+TCGA-EL-A3CN,Classical,Microscopic,R2,Left lobe,1.5
+TCGA-BJ-A0Z0,Classical,No ETE,R0,Right lobe,3.5
+TCGA-E3-A3E1,Classical,No ETE,R0,Right lobe,1.5
+TCGA-EL-A3T1,Classical,Microscopic,R0,Isthmus,3.8

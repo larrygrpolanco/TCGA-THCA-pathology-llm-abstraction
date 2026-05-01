@@ -1,0 +1,5 @@
+groq
+requests
+python-dotenv
+pandas
+scikit-learn
