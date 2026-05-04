@@ -1,9 +1,9 @@
-# Thyroid Cancer Pathology Abstraction — Replication Package
+# Thyroid Cancer Pathology Abstraction | Replication Package
 
 This repository accompanies the poster:
 
 > **Evaluating Open-Source Large Language Models for Automated Abstraction of Thyroid Cancer Pathology Data**
-> Larry Grullon-Polanco, Colleen Veloski, Elio Monsour, Prerna Dogra, Valentina Tarasova, Lina Pedraza-Sanchez — Moffitt Cancer Center Symposium
+> Larry Grullon-Polanco, Colleen Veloski, Elio Monsour, Prerna Dogra, Valentina Tarasova, Lina Pedraza-Sanchez | Moffitt Cancer Center Symposium
 
 ## What this is
 
@@ -11,7 +11,7 @@ Seven open-weight LLMs were evaluated on zero-shot structured data extraction fr
 200 TCGA-THCA (The Cancer Genome Atlas Thyroid Carcinoma) pathology reports.
 The task: extract five registry-style variables and compare against TCGA clinical labels.
 
-**The central artifact is `prompt.md`** — a registry-style abstraction prompt that encodes
+**The central artifact is `prompt.md`** an abstraction prompt that encodes
 extraction rules, section priorities, and tie-breaking logic for each variable. Performance
 was driven more by prompt quality than model size. Pre-computed results are in `results/`.
 
@@ -75,7 +75,7 @@ python src/run_inference.py
 python src/run_inference.py --models llama-3.1-8b llama-3.3-70b
 ```
 
-Outputs are saved to `output/predictions_{model}.csv`. Runs are idempotent —
+Outputs are saved to `output/predictions_{model}.csv`. Runs are idempotent,
 already-completed cases are skipped if you re-run.
 
 ### 4. Evaluate
